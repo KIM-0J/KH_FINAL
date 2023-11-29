@@ -58,6 +58,7 @@
 
 ## 여행지 둘러보기
 <img width="1000" alt="6" src="https://github.com/KIM-0J/KH_FINAL/assets/124057485/59d0a7e2-96b8-4c8d-aea8-d1a7d8186bd2">
+<img width="1000" alt="13" src="https://github.com/KIM-0J/KH_FINAL/assets/124057485/c5d5a633-e002-494e-93d9-8b2ed02f74f5">
 
 ## 항공권 검색 / 결제
 <img width="1000" alt="7" src="https://github.com/KIM-0J/KH_FINAL/assets/124057485/46365e35-27d7-4105-8b74-03768a8d6295">
