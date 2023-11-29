@@ -54,6 +54,7 @@
 <img width="1000" alt="2" src="https://github.com/KIM-0J/KH_FINAL/assets/124057485/cdaa351f-c93c-465a-834c-f14cb951e4c6">
 
 ## 메인페이지(여행 상점)
+<img width="1000" alt="5" src="https://github.com/KIM-0J/KH_FINAL/assets/124057485/b316695b-11b4-421b-a06e-b6c742936322">
 
 ## 여행지 둘러보기
 <img width="1000" alt="6" src="https://github.com/KIM-0J/KH_FINAL/assets/124057485/59d0a7e2-96b8-4c8d-aea8-d1a7d8186bd2">
